@@ -3,8 +3,8 @@
 🎓 Student of Robotics & AI (currently learning Python and exploring automation)  
 🌱 Building skills step by step and documenting my journey here on GitHub  
 💼 Connect with me on   
-(https://www.linkedin.com/in/ahmad-ali-96078a347/))  
-(https://www.kaggle.com/voidentity))
+                      https://www.linkedin.com/in/ahmad-ali-96078a347/
+                      https://www.kaggle.com/voidentity
 
 
 ---
@@ -22,5 +22,6 @@
 ---
 
 ✨ *Still learning, but improving every day.*
+
 
 
